@@ -8,3 +8,11 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+/src/Repository/TestRepository.php
+/src/Entity/Test.php
+/src/Controller/TestController.php
+/migrations/.gitignore
+src/Repository/.gitignore
+src/Entity/.gitignore
+src/ApiResource/
+.idea/
