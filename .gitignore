@@ -16,3 +16,6 @@ src/Repository/.gitignore
 src/Entity/.gitignore
 src/ApiResource/
 .idea/
+###> lexik/jwt-authentication-bundle ###
+/config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###
